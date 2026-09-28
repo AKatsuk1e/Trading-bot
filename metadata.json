@@ -1,0 +1,6 @@
+{
+  "name": "KellyTrade AI",
+  "description": "Autonomous crypto trading bot powered by multi-agent AI and fractional Kelly Criterion risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
